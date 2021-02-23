@@ -1,0 +1,4 @@
+Apfile : git
+Procfile : worker: python Terin.py
+requirements.txt : git+https://github.com/Rapptz/discord.py
+runtime.txt : python-3.7.5
