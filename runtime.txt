@@ -1,4 +1,4 @@
 Apfile : git
-Procfile : worker: python Terin.py
+Procfile : worker: python voicecreate.py
 requirements.txt : git+https://github.com/Rapptz/discord.py
 runtime.txt : python-3.7.5
